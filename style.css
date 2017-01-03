@@ -1,0 +1,55 @@
+/* Styles go here */
+
+body
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 80%;
+}
+h1 
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 120%;
+}
+h2 
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 110%;
+}
+h3 
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 100%;
+}
+
+h4 
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 90%;
+}
+.header 
+{
+   margin: 5px;
+   padding: 5px;
+   max-width: 100%;
+} 
+
+.headermenu 
+{
+   margin: 5px;
+   padding: 5px;
+   max-width: 100%;
+} 
+.leftmenu 
+{
+   float: left;
+   margin: 5px;
+   padding: 5px;
+   max-width: 30%;
+}   
+
+.mainmenu {
+   float: left;
+   margin: 5px;
+   padding: 5px;
+   max-width: 60%;
+} 
